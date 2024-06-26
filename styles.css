@@ -26,3 +26,13 @@ li {
 body {
     background-color: darkturquoise;
 }
+
+.description {
+    background-color: #008CD1;
+    color: white;
+}
+
+p,
+.description h2 {
+    color: white;
+}
